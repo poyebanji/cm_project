@@ -30,7 +30,7 @@ A react site that help find a local cool vacation.
 
 frontend https://github.com/poyebanji/travel_app_frontend
 
-backend https://github.com/poyebanji/travel-app-api
+backend https://github.com/Amenzesho/travel-app-backend
 
 Participation:
 
