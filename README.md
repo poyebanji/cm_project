@@ -1,7 +1,9 @@
 #cm_project
 
 Work/Project Examples
+
 Project 1
+
 Final EvolveU project https://github.com/poyebanji/artizia-pet
 
 3 Folders - 
@@ -30,7 +32,7 @@ frontend https://github.com/poyebanji/travel_app_frontend
 
 backend https://github.com/poyebanji/travel-app-api
 
-Particiation:
+Participation:
 
 Frontend Registeration, signin, contact, profile, Navigation and routing, contributed to JavaScrits in Landing and question page
 
@@ -42,7 +44,7 @@ Project 3.
 
 Face Recognition
 
-A react app that takes pictures and detect the faces in the picture.
+A react app that takes pictures URL and detect the faces in the picture.
 A udemy code along that does only one face. This app detect as many faces on the picture. It uses API to process the image and send back json data of the frames.
 
 The App is hosted on heroku https://smart-brain-pet.herokuapp.com/
@@ -53,13 +55,13 @@ GitHub - Code storage and version control with ability to reset to any point. Si
 
 Smart Brain App - the instructor only show how to detect one face in a picture, I extended the app to detect all faces in a picture.
 
-Artizia - So many selling app out ther, we wanted to create an app exclusively for artist to show case their products and find home for their items.
+Artizia - So many selling app out there, we wanted to create an app exclusively for artist to show case their products and find home for their items.
 
 Since I started my programing journey, I see web pages differently these question pops up.
 
- is static or dynamic?
+ is the site static or dynamic?
 
- what is the engine behind - JavaScripts, react, angular?
+ what is the engine behind site - JavaScripts, react, angular ...?
 
  does it have server and database?
 
@@ -71,11 +73,11 @@ Focus
 
 UX/UI - website functionality and easy to use with screen appeal.
 
-Scrum Master - to gain confidence managing project and deliveries
+Scrum Master - to gain confidence managing projects and deliveries
 
 Product Management - Concept to product
 
-Best practise for writing codes
+Best practices for writing codes
 
 Quality assurance and code testing
 
